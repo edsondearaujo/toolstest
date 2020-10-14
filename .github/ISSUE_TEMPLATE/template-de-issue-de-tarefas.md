@@ -1,15 +1,11 @@
 ---
 name: Template de issue de tarefas
 about: Template para qualquer tipo de issue que seja uma tarefa.
-title: ''
-labels: ''
-assignees: ''
+title: Adjusments
+labels: documentation
+assignees: edsondearaujo
 
 ---
-
-| nome | atividade  | assignees |
-|------|------|------|
-| nome da issue | atividade a ser realizada   | @nome_dos_assignees   | 
 
 ## Descrição
 Descreva a atividade da issue.
