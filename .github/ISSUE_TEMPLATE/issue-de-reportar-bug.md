@@ -27,15 +27,15 @@ Uma descrição simples e concisa do resultado atual.
 Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 
 **Desktop (preencha as seguintes informações):**
-  - SO: [por exemplo iOS]
-  - Navegador [por exemplo cromo, safari]
-  - Versão [por exemplo 22]
+  - SO: [Ex: Debian]
+  - Navegador [Ex: chrome, safari]
+  - Versão [Ex: 22]
 
 **Smartphone (preencha as seguintes informações):**
   - Dispositivo: [Ex: iPhone6]
   - SO: [Ex: iOS8.1]
-  - Navegador [Ex: navegador de ações, safari]
-  - Versão [por exemplo 22]
+  - Navegador [Ex: chrome, safari]
+  - Versão [Ex: 22]
 
 **Mais informações**
 Adicione qualquer outro contexto sobre o problema aqui.

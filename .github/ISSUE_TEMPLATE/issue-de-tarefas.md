@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Descrição**
-Descreva a atividade da issue.
+Descreva a tarefa que será documentada na issue.
    
 **Tarefas** 
    - [ ] Tarefa 1.

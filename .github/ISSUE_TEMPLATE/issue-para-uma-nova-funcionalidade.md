@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Frente a ser trabalhada:** (devops, backend, banco de dados, ...)
+**Frente a ser trabalhada:** (devops, backend, ...)
 
 **Descrição da nova feature:**
 Breve descrição da nova feature a ser implementada
